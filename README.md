@@ -39,6 +39,10 @@ I suggest to follow (beyond the course channels):
 - [CodeNewbie](https://twitter.com/hashtag/CodeNewbie)
 
 ## Tools
+
+**Codepen**
+A great [platform](https://codepen.io/) to quicly test html/css/javascript without the need of an IDE or setting up a server
+
 **Git/github**
 
 Set-up an account early and start building a portfolio of study projects. Many of the courses will require a github account anyway.
