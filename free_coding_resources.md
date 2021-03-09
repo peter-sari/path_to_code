@@ -1,1 +1,0 @@
-This is my path to acquire full-stack / cloud development coding skills.
