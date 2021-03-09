@@ -41,6 +41,7 @@ I suggest to follow (beyond the course channels):
 ## Tools
 
 **Codepen**
+
 A great [platform](https://codepen.io/) to quicly test html/css/javascript without the need of an IDE or setting up a server
 
 **Git/github**
