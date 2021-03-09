@@ -5,20 +5,26 @@ I've put together a list of resources I believe are enough to become a junior fu
 **Stage1**
 
 [CS50](https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/course/) - Simply the best intro course to computer science. By the end of the 12 weeks you will know if coding is for you or not.
+
 [Beyond CS50](https://cs50.harvard.edu/beyond/2019/) - Good extension of the original course to get more in-depth knowledge
+
 [Freecodecamp](https://www.freecodecamp.org/) - Teaches the basics of front-end development through bite sized tasks
+
 [Scrimba](https://scrimba.com/) - Super practical and hands on intro to different areas of front-end. All the intro courses are free.
+
 [Git and Github crash course](https://www.freecodecamp.org/news/git-and-github-crash-course/)
 
 **Stage2**
 
 [Javascript30](https://wesbos.com/javascript30) - Learn JS through 30 daily challenges
+
 [CS50 Web Programming](https://cs50.harvard.edu/web/2020/)
 
 
 **Stage3**
 
 [Full stack cloud developer course by IBM](https://www.edx.org/professional-certificate/ibm-full-stack-cloud-developer) - it is a paid for course but can be audited for free (no task gradings then)
+
 [CS50's intro to AI](https://www.edx.org/course/cs50s-introduction-to-artificial-intelligence-with-python) - CS50 intro is a prerequisite
 
 ## Content
